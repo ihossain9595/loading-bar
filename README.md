@@ -6,4 +6,3 @@ A simple loading bar
 
 1. HTML
 2. CSS
-3. JavaScript

@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #333333;
+}
+
 .loading-bar {
   height: 100vh;
   display: flex;
@@ -54,7 +58,7 @@
   animation-timing-function: ease-in-out;
 }
 .bar-5 {
-  background-color: #073b4c;
+  background-color: #ee6c4d;
   animation-name: height-change-1;
   animation-duration: 1s;
   animation-delay: 0.8s;
