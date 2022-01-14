@@ -1,4 +1,4 @@
-# Loading Bar
+# Loading Bar V1
 
 A simple loading bar
 
